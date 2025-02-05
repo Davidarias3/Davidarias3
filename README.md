@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im David, a fourth year student at the University of Tennessee studying business analytics. I am proficient in software applications such as Microsoft Excel, RStudio, Tableau, Alteryx, Azure, and Microsoft Access.
+Im David, a fourth year student at the University of Tennessee studying business analytics. I am well versed in multiple software applications such as Microsoft Excel, RStudio, Tableau, Alteryx, Azure, and Microsoft Access.
 
 I am proficient in SQL and R and currently learning C#
 
